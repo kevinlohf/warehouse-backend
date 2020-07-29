@@ -57,7 +57,7 @@ typing==3.6.6
 typing-extensions==3.7.2
 ujson==1.35
 urllib3==1.24.1
-uvicorn==0.4.3
+uvicorn==0.11.7
 uvloop==0.12.1
 websockets==7.0
 Werkzeug==0.14.1
