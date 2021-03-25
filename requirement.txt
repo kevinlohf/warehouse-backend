@@ -41,7 +41,7 @@ pylint==2.2.2
 python-dateutil==2.8.0
 python-multipart==0.0.5
 pytz==2018.9
-PyYAML==3.13
+PyYAML==5.4
 pyzbar==0.1.7
 requests==2.21.0
 Rx==1.6.1
