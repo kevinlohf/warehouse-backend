@@ -3,7 +3,7 @@ aiofiles==0.4.0
 aniso8601==3.0.2
 astor==0.7.1
 astroid==2.1.0
-asyncpg==0.18.3
+asyncpg==0.21.0
 autopep8==1.4.3
 certifi==2018.11.29
 chardet==3.0.4
